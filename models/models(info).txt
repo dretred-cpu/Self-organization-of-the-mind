@@ -1,0 +1,5 @@
+# zapisane modele, parametry, wyniki (ograniczona liczba modeli: eksperymenty, badania, testy, analizy - prototypowanie)
+# analiza dużych ilości zbiorów danych wymaga wykorzystania baz danych:
+#		- SQLite (lokalnie, lekka baza w pliku)
+#		- PostgreSQL lub MongoDB (przy większej skali)
+#		- MLflow lub Weights & Biases (framework do eksperymentów)

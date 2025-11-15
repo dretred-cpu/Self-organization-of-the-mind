@@ -1,0 +1,13 @@
+{
+    "python-envs.pythonProjects": [
+        {
+            "path": "",
+            "envManager": "ms-python.python:conda",
+            "packageManager": "ms-python.python:conda"
+        }
+    ],
+{
+    "python.defaultInterpreterPath": "C:\\Users\\Jacek\\miniconda3\\envs\\ModelNC",
+    "python.analysis.extraPaths": ["./src/my_modules"]
+}
+}

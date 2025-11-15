@@ -1,0 +1,19 @@
+# __pycache__, środowiska
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.venv*/
+
+# dane duże:
+data/ # jeśli trzymasz surowe duże pliki, rozważ Git LFS zamiast ignore
+
+# pliki systemowe
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints

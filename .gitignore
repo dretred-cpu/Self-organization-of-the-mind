@@ -17,3 +17,10 @@ Thumbs.db
 
 # Jupyter checkpoints
 **/.ipynb_checkpoints
+notebooks/HH_model.ipynb
+notebooks/ModelNeuralCell_prototype.ipynb
+notebooks/plotly_test.ipynb
+*.code-workspace
+notebooks/JR-ModelNeuralCell_prototype.ipynb
+notebooks/JR-ModelNeuralCell_prototype.ipynb
+notebooks/JR-ModelNeuralCell_prototype.ipynb
